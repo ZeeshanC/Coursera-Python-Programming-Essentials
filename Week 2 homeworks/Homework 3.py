@@ -1,7 +1,7 @@
 #-*- coding: utf-8 -*-
 #@Filename : Homework 3
 #@Date : 2018-03-13-21-08
-#@Poject: Python Programming Essentials
+#@Poject: Python Programming Essentials 2018
 #@AUTHOR : Antero Maripuu
 
 #When investing money, an important concept to know is compound interest.

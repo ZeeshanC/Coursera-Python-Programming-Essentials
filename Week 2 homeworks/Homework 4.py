@@ -1,7 +1,7 @@
 #-*- coding: utf-8 -*-
 #@Filename : Homework 4
 #@Date : 2018-03-13-21-40
-#@Poject: Python Programming Essentials
+#@Poject: Python Programming Essentials 2018
 #@AUTHOR : Antero Maripuu
 
 #For this final question, your task is to find the formula for a simple geometric problem using Google and then implement
