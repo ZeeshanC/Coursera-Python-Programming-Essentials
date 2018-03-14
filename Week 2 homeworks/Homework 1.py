@@ -1,7 +1,7 @@
 #-*- coding: utf-8 -*-
 #@Filename : Homework 2
 #@Date : 2018-03-13-20-47
-#@Poject: Python Programming Essentials
+#@Poject: Python Programming Essentials 2018
 #@AUTHOR : Antero Maripuu
 
 
